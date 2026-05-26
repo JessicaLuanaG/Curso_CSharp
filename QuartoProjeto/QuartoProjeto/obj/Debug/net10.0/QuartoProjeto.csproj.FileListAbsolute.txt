@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\bin\Debug\net10.0\QuartoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\bin\Debug\net10.0\QuartoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\bin\Debug\net10.0\QuartoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\bin\Debug\net10.0\QuartoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\bin\Debug\net10.0\QuartoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\refint\QuartoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\QuartoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuartoProjeto\QuartoProjeto\obj\Debug\net10.0\ref\QuartoProjeto.dll

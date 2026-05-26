@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\bin\Debug\net10.0\TerceiroProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\bin\Debug\net10.0\TerceiroProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\bin\Debug\net10.0\TerceiroProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\bin\Debug\net10.0\TerceiroProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\bin\Debug\net10.0\TerceiroProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\refint\TerceiroProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\TerceiroProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\TerceiroProjeto\TerceiroProjeto\obj\Debug\net10.0\ref\TerceiroProjeto.dll

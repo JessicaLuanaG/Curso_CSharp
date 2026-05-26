@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net10.0\SegundoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net10.0\SegundoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net10.0\SegundoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net10.0\SegundoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\bin\Debug\net10.0\SegundoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\refint\SegundoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SegundoProjeto\SegundoProjeto\obj\Debug\net10.0\ref\SegundoProjeto.dll
