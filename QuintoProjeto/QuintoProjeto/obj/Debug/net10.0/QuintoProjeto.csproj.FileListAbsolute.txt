@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\bin\Debug\net10.0\QuintoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\bin\Debug\net10.0\QuintoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\bin\Debug\net10.0\QuintoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\bin\Debug\net10.0\QuintoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\bin\Debug\net10.0\QuintoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\refint\QuintoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\QuintoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\QuintoProjeto\QuintoProjeto\obj\Debug\net10.0\ref\QuintoProjeto.dll

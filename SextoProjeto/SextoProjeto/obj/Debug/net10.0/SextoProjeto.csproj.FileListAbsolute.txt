@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\bin\Debug\net10.0\SextoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\bin\Debug\net10.0\SextoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\bin\Debug\net10.0\SextoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\bin\Debug\net10.0\SextoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\bin\Debug\net10.0\SextoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\refint\SextoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\SextoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\SextoProjeto\SextoProjeto\obj\Debug\net10.0\ref\SextoProjeto.dll
