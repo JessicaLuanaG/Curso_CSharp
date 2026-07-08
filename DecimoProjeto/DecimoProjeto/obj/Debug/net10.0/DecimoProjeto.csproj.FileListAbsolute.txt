@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\bin\Debug\net10.0\DecimoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\bin\Debug\net10.0\DecimoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\bin\Debug\net10.0\DecimoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\bin\Debug\net10.0\DecimoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\bin\Debug\net10.0\DecimoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\refint\DecimoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\DecimoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\DecimoProjeto\DecimoProjeto\obj\Debug\net10.0\ref\DecimoProjeto.dll

@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\bin\Debug\net10.0\NonoProjeto.exe
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\bin\Debug\net10.0\NonoProjeto.deps.json
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\bin\Debug\net10.0\NonoProjeto.runtimeconfig.json
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\bin\Debug\net10.0\NonoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\bin\Debug\net10.0\NonoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\refint\NonoProjeto.dll
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.pdb
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\NonoProjeto.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\testes\Projetos\NonoProjeto\NonoProjeto\obj\Debug\net10.0\ref\NonoProjeto.dll
